@@ -89,7 +89,12 @@ Se pueden añadir otras opciones en lugar de solo implementar divisas. || Other 
 
 ## 4. Uso || Usage:
 
-Primero debes escribir en el apartado "Ingrese su texto aquí" (recordando que este no permitirá letras mayúsculas y en caso de caracteres especiales se enviará un mensaje diciendo que esto no es posible y se reiniciará la página). Usa el bóton "Encriptar" para poder realizar la encriptación y el botón "Desencriptar" para la desencriptación. Luego verás reflejado el resultado en el cuadro texto derecho. 
+Primero debes escoger entre las siguientes opciones:
+
+![image](https://github.com/Darkgenes/Challenge_Conversor_ONE/assets/88634132/ad3c3eca-7cd6-4470-960d-971d5dc81a67)
+
+
+"Ingrese su texto aquí" (recordando que este no permitirá letras mayúsculas y en caso de caracteres especiales se enviará un mensaje diciendo que esto no es posible y se reiniciará la página). Usa el bóton "Encriptar" para poder realizar la encriptación y el botón "Desencriptar" para la desencriptación. Luego verás reflejado el resultado en el cuadro texto derecho. 
 
 Después, puedes decidir si borrar el texto resultante con el botón "borrar" o copiar este texto con el botón "copiar". 
 
