@@ -97,10 +97,27 @@ Puedes seleccionar una de las 3 opciones dando click encima de alguno y dando a 
 
 ![image](https://github.com/Darkgenes/Challenge_Conversor_ONE/assets/88634132/2b4d28da-0cec-40b1-ac70-8b5279d1bfd1)
 
+Para este caso seleccionaremos metros como primera opción y después de darle "OK", seleccionamos kilómetros y nuevamente damos en "OK". || For this case we will select meters as the first option and after clicking "OK", we select kilometers and click "OK" again.
 
-"Ingrese su texto aquí" (recordando que este no permitirá letras mayúsculas y en caso de caracteres especiales se enviará un mensaje diciendo que esto no es posible y se reiniciará la página). Usa el bóton "Encriptar" para poder realizar la encriptación y el botón "Desencriptar" para la desencriptación. Luego verás reflejado el resultado en el cuadro texto derecho. 
+![image](https://github.com/Darkgenes/Challenge_Conversor_ONE/assets/88634132/e5f6dd74-b271-4281-98bc-88e717a5d9cb)
 
-Después, puedes decidir si borrar el texto resultante con el botón "borrar" o copiar este texto con el botón "copiar". 
+Después, ingresamos un valor y damos "OK". Y siguiente a esto se nos mostrará el resultado: || Then, we enter a value and click "OK". And after that the result will be displayed:
+
+![image](https://github.com/Darkgenes/Challenge_Conversor_ONE/assets/88634132/f2c8a71d-a5c4-4a13-8998-bbf49092019f)
+
+Cabe aclara que, en caso de no ser un número, se lanzará una exception y se enviará un mensaje al usuario diciendo lo siguiente: || It should be clarified that, in case it is not a number, an exception will be launched and a message will be sent to the user saying the following:
+
+![image](https://github.com/Darkgenes/Challenge_Conversor_ONE/assets/88634132/36f31bef-fdc7-46f5-8837-99ae0c809886)
+
+Al final del ciclo (sea por un error o un ciclo normal), se le pregunta al usuario si desea seguir haciendo uso del programa o si quiere finalizar: || At the end of the cycle (either an error or a normal cycle), the user is asked if he/she wants to continue using the program or if he/she wants to terminate:
+
+![image](https://github.com/Darkgenes/Challenge_Conversor_ONE/assets/88634132/ca48f2f0-a439-448b-84e9-461de5df1ca9)
+
+En caso de que el usuario indique "NO" el programa lanzará el siguiente mensaje y terminará el programa una vez se de clic en "OK". || In case the user indicates "NO" the program will launch the following message and terminate the program once "OK" is clicked.
+
+![image](https://github.com/Darkgenes/Challenge_Conversor_ONE/assets/88634132/e700f561-40b8-4b68-ad6e-df058565d846)
+
+Si el usario eligió la otra opción, el programa vuelve a reiniciarse. || If the user chose the other option, the program restarts again.
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
