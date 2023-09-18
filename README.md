@@ -97,7 +97,7 @@ Después, puedes decidir si borrar el texto resultante con el botón "borrar" o 
 
 ## 5. Características || Features:
 
-Además de las características que debe poseer esta solución según los requisitos y extras, se añadió un botón de borrado. || In addition to the features that this solution must have according to the requirements and extras, a delete button was added.
+Además de las características que debe poseer esta solución según los requisitos y extras, se añadió dos conversores más; temperatura y longitudes. || In addition to the features that this solution must have according to the requirements and extras, two more converters were added; temperature and lengths.
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
