@@ -113,7 +113,7 @@ Al final del ciclo (sea por un error o un ciclo normal), se le pregunta al usuar
 
 ![image](https://github.com/Darkgenes/Challenge_Conversor_ONE/assets/88634132/ca48f2f0-a439-448b-84e9-461de5df1ca9)
 
-En caso de que el usuario indique "NO" el programa lanzará el siguiente mensaje y terminará el programa una vez se de clic en "OK". || In case the user indicates "NO" the program will launch the following message and terminate the program once "OK" is clicked.
+En caso de que el usuario indique "No" el programa lanzará el siguiente mensaje y terminará el programa una vez se de clic en "OK". || In case the user indicates "No" the program will launch the following message and terminate the program once "OK" is clicked.
 
 ![image](https://github.com/Darkgenes/Challenge_Conversor_ONE/assets/88634132/e700f561-40b8-4b68-ad6e-df058565d846)
 
