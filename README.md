@@ -26,7 +26,7 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
 
 <h2>Nombre del Proyecto: Desafío_Convertidor || Project Name: Converter_Challenge</h2>
 <h4>Versión || Version:</h4>1.0.0
-<h4>Fecha || Date:</h4>23/05/2023
+<h4>Fecha || Date:</h4>17/09/2023
 
 # =*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 
