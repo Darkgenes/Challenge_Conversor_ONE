@@ -56,41 +56,33 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
 
 ## 1. Introducción || Introduction
 
-Se trata de una aplicación que convierte el valor de una divisa a otra. Primer Challenge del grupo 5 de ONE llamado "Sprint 02: Challenge Back End Java - Conversor". || This is an application that converts the value of one currency to another. First Challenge; group 5 of ONE (Alura + Oracle) called "Sprint 02: Challenge Back End Java - Converter".
+Se trata de una aplicación que convierte el valor de una divisa a otra (yenes, dólares, wones, libras esterlinas, euros y pesos colombianos), de una temperatura a otra (Fahrenheit, Celsius y Kelvin) y el valor de longitudes (kilómetros, metros, millas, pies y pulgadas). Primer Challenge del grupo 5 de ONE llamado "Sprint 02: Challenge Back End Java - Conversor". || This is an application that converts the value of one currency to another (yen, dollars, won, pounds sterling, euros and Colombian pesos), from one temperature to another (Fahrenheit, Celsius and Kelvin) and the value of lengths (kilometers, meters, miles, feet and inches). First Challenge of group 5 of ONE called "Sprint 02: Challenge Back End Java - Converter".
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
 ## 2. Indicaciones del curso ONE || ONE course indications
 
-Las "llaves" de encriptación que utilizaremos son las siguientes: || The cryptographic keys we shall use are as it follows below:
+Las características que utilizaremos son las siguientes: || The features we shall use are as it follows below:
 
-* La letra "e" es convertida a "enter". || The letter "e" is converted to "enter".
-* La letra "i" es convertida a "imes". || The letter "i" is converted to "imes".
-* La letra "a" es convertida a "ai". || The letter "a" is converted to "ai".
-* La letra "o" es convertida a "ober". || The letter "o" is converted to "ober".
-* La letra "u" es convertida a "ufat". || The letter "u" is converted to "ufat".
+Uso de la clase JOptionPane de la Biblioteca Java Swing y la utilización de excepciones. || Use of the JOptionPane class of the Java Swing Library and the use of exceptions.
 
 ### 2. 1. Requisitos: || Requirements
 
 Aquí los requisitos señalados por el curso: || Here are the course requirements:
 
-* Debe funcionar solo con letras minúsculas. || It must work only with lowercase letters.
+* Convertir de la moneda de tu país a Dólar.
+* Convertir de la moneda de tu país  a Euros.
+* Convertir de la moneda de tu país  a Libras Esterlinas.
+* Convertir de la moneda de tu país  a Yen Japonés.
+* Convertir de la moneda de tu país  a Won sul-coreano.
 
-* No deben ser utilizados letras con acentos ni caracteres especiales. || It must not be used either accented letters or special characters.
-
-* Debe ser posible convertir una palabra u oración a la versión encriptada y también devolver una palabra encriptada a su versión original. || It must be possible to convert a word or a sentence to encrypted version and also return the decrypted word or sentence.
-
-Por ejemplo: || For example:
--"gato" => "gaitober". (encriptado) || "cat" => "caitober". (encrypted)
--gaitober" => "gato". (desencriptado) || "caitober" => "cat". (decrypted)
-
-* La página debe tener campos para la inserción de texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones. || The website must have fields for text insertion that will be encrypted or decrypted, and user must be able to pick between two options.
+Y también en la sentido contrario || And also the opposite way.
 
 El resultado deberá ser mostrado en la pantalla. ||Result should be displayed on the screen.
 
 ### 2. 2. Extras:
 
-Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del "ctrl + c" o de la opción "copiar" del menú de aplicaciones. || A button that copies encrypted/decrypted text for transfer section, that is, it shall have the same functionality as "ctrl+ c" or the "copy" option, in the application menu.
+Se pueden añadir otras opciones en lugar de solo implementar divisas. || Other options can be added instead of just implementing currencies.
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
