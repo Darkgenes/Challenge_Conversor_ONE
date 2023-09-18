@@ -81,16 +81,9 @@ Y también en la sentido contrario || And also the opposite way.
 
 El resultado deberá ser mostrado en la pantalla. || Result should be displayed on the screen.
 
-### 2. 2. Extras:
+### 3. Extras:
 
 Se pueden añadir otras opciones en lugar de solo implementar divisas. || Other options can be added instead of just implementing currencies.
-
-<p align = "right">(<a href = "#readme-top">back to top</a>)</p>
-
-## 3. Página web || Website:
-Puedes visualizar y revisar el resultado con el siguiente enlace: || You can visualize and check the results with the next link below:
-
-https://darkgenes.github.io/encryptor_challenge_1_alura/
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
