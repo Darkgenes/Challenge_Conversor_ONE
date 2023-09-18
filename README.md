@@ -64,21 +64,22 @@ Se trata de una aplicación que convierte el valor de una divisa a otra (yenes, 
 
 Las características que utilizaremos son las siguientes: || The features we shall use are as it follows below:
 
-Uso de la clase JOptionPane de la Biblioteca Java Swing y la utilización de excepciones. || Use of the JOptionPane class of the Java Swing Library and the use of exceptions.
+*Uso de la clase JOptionPane de la Biblioteca Java Swing. || Use of the JOptionPane class of the Java Swing Library.
+*Utilización de excepciones. || Use of exceptions. 
 
 ### 2. 1. Requisitos: || Requirements
 
 Aquí los requisitos señalados por el curso: || Here are the course requirements:
 
-* Convertir de la moneda de tu país a Dólar.
-* Convertir de la moneda de tu país  a Euros.
-* Convertir de la moneda de tu país  a Libras Esterlinas.
-* Convertir de la moneda de tu país  a Yen Japonés.
-* Convertir de la moneda de tu país  a Won sul-coreano.
+* Convertir de la moneda de tu país a Dólar. || Convert from your country's currency to Dollar.
+* Convertir de la moneda de tu país a Euros. || Convert from your country's currency to Euros.
+* Convertir de la moneda de tu país a Libras Esterlinas. || Convert from your country's currency to British Pounds.
+* Convertir de la moneda de tu país a Yen Japonés. || Convert from your country's currency to Japanese Yen.
+* Convertir de la moneda de tu país a Won Sur-coreano. || Convert from your country's currency to Korean Won.
 
 Y también en la sentido contrario || And also the opposite way.
 
-El resultado deberá ser mostrado en la pantalla. ||Result should be displayed on the screen.
+El resultado deberá ser mostrado en la pantalla. || Result should be displayed on the screen.
 
 ### 2. 2. Extras:
 
