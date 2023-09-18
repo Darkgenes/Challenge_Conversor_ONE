@@ -210,6 +210,7 @@ public class divisa {
             double x = Double.parseDouble(input);
             return x;
             } catch (NumberFormatException e) { // e catch info of exception
+				JOptionPane.showMessageDialog(null, "Error: Ingresa solo números.", "Error", JOptionPane.ERROR_MESSAGE);
                 return -1.0;
             }
     }

@@ -25,7 +25,7 @@ public class Main {
             
             switch(opc) {
                 //First case
-                case "Conversor de Moneda": //Case money interchange
+                case "Conversor de Moneda": //Case money interchange (only positive numbers)
                     help_divisa.seleccion_divisa(); //Object to access "divisa" functions
                     respuesta = JOptionPane.showConfirmDialog(null,"¿Deseas realizar otra conversión?", 
                     "Confirmación", JOptionPane.YES_NO_OPTION);
@@ -38,7 +38,7 @@ public class Main {
                     break;
 
                 //Second case
-                case "Conversor de Temperatura":
+                case "Conversor de Temperatura": 
                     help_temp.ConvertirTemperatura();; //Object to access "temperatura" functions
                     respuesta = JOptionPane.showConfirmDialog(null,"¿Deseas realizar otra conversión?", 
                     "Confirmación", JOptionPane.YES_NO_OPTION);
@@ -49,8 +49,8 @@ public class Main {
                         bucle = false;                       
                     }
                     break;
-                
-                case "Conversor de Longitudes":
+                //Third case
+                case "Conversor de Longitudes": //Only positive numbers
                     help_longitudes.ConvertirLongitud(); //Object to access "longitudes" functions
                     respuesta = JOptionPane.showConfirmDialog(null,"¿Deseas realizar otra conversión?", 
                     "Confirmación", JOptionPane.YES_NO_OPTION);

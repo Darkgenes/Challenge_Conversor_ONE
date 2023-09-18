@@ -28,7 +28,7 @@ public class longitudes {
         JOptionPane.PLAIN_MESSAGE, null, opcionesSinSeleccion, "Selección")).toString();
 		
         String opcion = opcion_input + " a " + opcion_output;
-        String input = JOptionPane.showInputDialog("Ingresa la longitud a convertir: " + "(" + opcion_input + " a " + opcion_output + ")");
+        String input = JOptionPane.showInputDialog("Ingresa la longitud a convertir: " + "(" + opcion_input + " a " + opcion_output + ")");        
         double value_long = ValidarNumero(input); //get double value
         //System.out.println(opcion);
         boolean esp = false; //Especial cases
@@ -139,12 +139,14 @@ public class longitudes {
         }
 	}
 
-   public static double ValidarNumero(String input) { //A possible exception
-      try {
+    public static double ValidarNumero(String input) { //A possible exception
+        try {
           double x = Double.parseDouble(input);
           return x;
-          } catch (NumberFormatException e) { // e catch info of exception
-              return -1.0;
-          }
+        } catch (NumberFormatException e) { // e catch info of exception
+            // Mostrar un mensaje de error si la entrada no es un número
+            JOptionPane.showMessageDialog(null, "Error: Ingresa solo números.", "Error", JOptionPane.ERROR_MESSAGE);
+            return -1.0;
+        }
   }
 }
