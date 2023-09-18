@@ -103,7 +103,7 @@ Además de las características que debe poseer esta solución según los requis
 
 ## 6. Limitaciones || Limitations:
 
-Se trata de un desafío básico dentro del programa ONE, por lo que no debería ser usado como un encriptador profesional. || This is a basic challenge within the ONE program, so it should not be used as a professional encryptor.
+Se trata de un desafío básico dentro del programa ONE, por lo que no debería ser usado como un convertidor profesional puesto que este no tiene una amplía variedad de opciones y además no posee una API para acceder a los valores de las divisas "en vivo". || This is a basic challenge within the ONE program, so it should not be used as a professional converter since it does not have a wide variety of options and it does not have an API to access "live" currency values. 
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
