@@ -81,7 +81,7 @@ Y también en la sentido contrario || And also the opposite way.
 
 El resultado deberá ser mostrado en la pantalla. || Result should be displayed on the screen.
 
-### 3. Extras:
+## 3. Extras:
 
 Se pueden añadir otras opciones en lugar de solo implementar divisas. || Other options can be added instead of just implementing currencies.
 
