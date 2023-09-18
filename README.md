@@ -89,9 +89,13 @@ Se pueden añadir otras opciones en lugar de solo implementar divisas. || Other 
 
 ## 4. Uso || Usage:
 
-Primero debes escoger entre las siguientes opciones:
+Primero debes escoger entre las siguientes opciones: || First you must choose from the following options:
 
 ![image](https://github.com/Darkgenes/Challenge_Conversor_ONE/assets/88634132/ad3c3eca-7cd6-4470-960d-971d5dc81a67)
+
+Puedes seleccionar una de las 3 opciones dando click encima de alguno y dando a "OK". En este caso haremos el ejemplo con longitudes: || You can select one of the 3 options by clicking on one of them and pressing "OK". In this case we will do the example with lengths:
+
+![image](https://github.com/Darkgenes/Challenge_Conversor_ONE/assets/88634132/2b4d28da-0cec-40b1-ac70-8b5279d1bfd1)
 
 
 "Ingrese su texto aquí" (recordando que este no permitirá letras mayúsculas y en caso de caracteres especiales se enviará un mensaje diciendo que esto no es posible y se reiniciará la página). Usa el bóton "Encriptar" para poder realizar la encriptación y el botón "Desencriptar" para la desencriptación. Luego verás reflejado el resultado en el cuadro texto derecho. 
