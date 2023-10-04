@@ -56,7 +56,7 @@ This was based in Best-README-Template[https://github.com/othneildrew/Best-READM
 
 ## 1. Introducción || Introduction
 
-Se trata de una aplicación que convierte el valor de una divisa a otra (yenes, dólares, wones, libras esterlinas, euros y pesos colombianos), de una temperatura a otra (Fahrenheit, Celsius y Kelvin) y el valor de longitudes (kilómetros, metros, millas, pies y pulgadas). Primer Challenge del grupo 5 de ONE llamado "Sprint 02: Challenge Back End Java - Conversor". || This is an application that converts the value of one currency to another (yen, dollars, won, pounds sterling, euros and Colombian pesos), from one temperature to another (Fahrenheit, Celsius and Kelvin) and the value of lengths (kilometers, meters, miles, feet and inches). First Challenge of group 5 of ONE called "Sprint 02: Challenge Back End Java - Converter".
+Se trata de una aplicación que convierte el valor de una divisa a otra (yenes, dólares, wones, libras esterlinas, euros y pesos colombianos), de una temperatura a otra (Fahrenheit, Celsius y Kelvin) y el valor de longitudes (kilómetros, metros, millas, pies y pulgadas). Segundo Challenge del grupo 5 de ONE llamado "Sprint 02: Challenge Back End Java - Conversor". || This is an application that converts the value of one currency to another (yen, dollars, won, pounds sterling, euros and Colombian pesos), from one temperature to another (Fahrenheit, Celsius and Kelvin) and the value of lengths (kilometers, meters, miles, feet and inches). Second Challenge of group 5 of ONE called "Sprint 02: Challenge Back End Java - Converter".
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
 
